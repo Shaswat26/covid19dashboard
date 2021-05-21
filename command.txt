@@ -1,0 +1,2 @@
+COMMAND FOR CONVERSION INTO DASHBOARD:
+voila "filename with location" --template=gridstick
